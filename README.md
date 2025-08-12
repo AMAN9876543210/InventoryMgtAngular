@@ -33,13 +33,13 @@ This project demonstrates the use of modern frontend frameworks, state managemen
    ```bash
    npm install
    # Run the development server
-ng serve --open
-# The application will automatically open in your default browser.
+   ng serve --open ```
+   
+ **The application will automatically open in your default browser**
 
-# Backend API
-# Implemented using .NET 8 Web APIs
-# Repository: https://github.com/rd003/InventoryMgt_AspNetCore_Backend
+## Backend API
+ **Implemented using .NET 8 Web API**
 
-# Screenshot
-# https://github.com/rd003/InventoryMgtAngular/blob/master/screenshot1.jpg
+## Screenshot
+  **https://github.com/rd003/InventoryMgtAngular/blob/master/screenshot1.jpg**
 
