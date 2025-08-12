@@ -41,5 +41,5 @@ This project demonstrates the use of modern frontend frameworks, state managemen
  **Implemented using .NET 8 Web API**
 
 ## Screenshot
-  **https://github.com/rd003/InventoryMgtAngular/blob/master/screenshot1.jpg**
+  **[Pic of Inventory](https://github.com/AMAN9876543210/InventoryMgtAngular/blob/main/screenshot1.jpg)**
 
