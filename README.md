@@ -1,21 +1,45 @@
-# InventoryMgtAngular
+# Inventory Management (Angular + .NET Core)
 
-Basic inventory management project with angular and .net core apis.
+A simple yet powerful **Inventory Management System** built using **Angular 17** for the frontend and **.NET 8** APIs for the backend.  
+This project demonstrates the use of modern frontend frameworks, state management, and API integration to manage product inventory efficiently.
 
-## Development server
+---
 
-Run `ng serve --open`
+## 🚀 Features
 
-## Tech Stack
+- Modern UI built with **Angular Material**
+- State management with **NgRx Component Store**
+- Responsive and intuitive interface
+- Integration with **.NET 8** backend APIs
+- Real-time inventory updates
 
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
 - Angular 17
-- Angular material
-- Ngrx componnent store
-- [.Net 8 apis](https://github.com/rd003/InventoryMgt_AspNetCore_Backend) for backend
+- Angular Material
+- NgRx Component Store
 
-## Backend url
+**Backend**
+- [.NET 8 Web APIs]()
 
-Backend of this project made with .net core 8 apis.
-For running this project.You need both projects. Please follow this [link](https://github.com/rd003/InventoryMgt_AspNetCore_Backend) to get the backend project.
+---
 
-![Inventory Management Screenshot](https://github.com/rd003/InventoryMgtAngular/blob/master/screenshot1.jpg)
+## ⚙️ Development Setup
+
+1. **Install dependencies**  
+   ```bash
+   npm install
+   # Run the development server
+ng serve --open
+# The application will automatically open in your default browser.
+
+# Backend API
+# Implemented using .NET 8 Web APIs
+# Repository: https://github.com/rd003/InventoryMgt_AspNetCore_Backend
+
+# Screenshot
+# https://github.com/rd003/InventoryMgtAngular/blob/master/screenshot1.jpg
+
